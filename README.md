@@ -1,5 +1,8 @@
 
 
+<p align="center">
+  <img src="Assets/RVbanner.png" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Ricardo Valdez</h1>
 <h3 align="center"></h3>
 
