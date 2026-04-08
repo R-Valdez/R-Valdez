@@ -45,6 +45,11 @@ Computer Science graduate.
   <p>🚧 Projects coming soon...</p>
 </div>
 
+<div align="center">
+  <a href="https://r-valdez.github.io/FortniteSite/index.html">
+    <img src="Assets/FNThumbnail.png" width="32%" alt="Fortnite Battle Pass Project">
+  </a>
+
 <br />
 <hr>
 
