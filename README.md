@@ -73,8 +73,8 @@ Computer Science graduate.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Valdez&layout=compact&theme=default&cache_seconds=86400" />
 </p>
 -->
-<p>
-  <img src="./stats.svg" alt="My GitHub Stats" />
+<p align="center">
+  <img src="github-metrics.svg" alt="My GitHub Metrics" />
 </p>
 
 <p>
