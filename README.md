@@ -74,6 +74,10 @@ Computer Science graduate.
 </p>
 -->
 <p>
+  <img src="./stats.svg" alt="My GitHub Stats" />
+</p>
+
+<p>
   <img src="https://streak-stats.demolab.com?user=R-Valdez&theme=default&cache_seconds=86400" />
 </p>
 
