@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="Assets/RVbanner.png" alt="Banner" width="100%" />
 </p>
@@ -19,9 +18,7 @@ Computer Science graduate.
 
 <h2 align="center">Skills</h2>
 
-<div align="center">
-  <br>
- <div align="center">  
+<p align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="70" height="70"/> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="70" height="70"/>
@@ -31,8 +28,8 @@ Computer Science graduate.
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="70" height="70"/> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="70" height="70"/> 
-</div>
-</div>
+</p>
+
 
 <br>
 <hr>
@@ -58,8 +55,13 @@ Computer Science graduate.
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/valdez-ricardo/" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" width="40" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/R-Valdez" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" style="margin: 0 10px;" /></a>
+  <a href="https://www.linkedin.com/in/valdez-ricardo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/R-Valdez" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40"/>
+  </a>
 </p>
 
 <hr>
