@@ -32,7 +32,7 @@ Computer Science graduate.
 <h2 align="center">Projects</h2>
 
 <div align="center">
-  <p>🚧 Projects coming soon...</p>
+  <p>...</p>
 </div>
 
 <div align="center">
